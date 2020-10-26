@@ -1,0 +1,53 @@
+.cards {
+    position: relative;
+}
+
+
+.card1 {
+    background-color: rgb(112, 146, 191);
+    width: 486px;
+    height: 345px;
+    position: absolute;
+    z-index: 5;
+  
+}
+
+.card2 {
+    background-color: rgb(60, 71, 204);
+    width: 486px;
+    height: 345px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    z-index: 4;
+}
+
+.card3 {
+    background-color: rgb(150, 76, 168);
+    width: 486px;
+    height: 345px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 3;
+}
+
+.card4 {
+    background-color: rgb(135, 2, 2);
+    width: 486px;
+    height: 345px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    z-index: 2;
+}
+
+.card5 {
+    background-color: rgb(169, 127, 97);
+    width: 486px;
+    height: 345px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    z-index: 1;
+}
